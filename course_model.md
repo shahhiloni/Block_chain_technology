@@ -49,10 +49,10 @@ Step: 3 :
 3. Introduction to Decentralized Applications (DApps) using Web3.js or Ethers.js or Web3.py or Ethers.py
 4. Understanding gas fees, transactions, and block explorers
 
-Step: 4: tokens 
+Step: 4: learn about tokens, Alt coin, gas fees and wallets, types of Wallets
 
 ************************** 3 month (Mini Projects) ******************************
 1. Voting Application 
 2. Hospital Management system 
-3. NFT Marketplace
+3. NFT Marketplace (Non-fungiable token - unique digital certificate which provide image, videos, games items, art ownership proof)
 4. Certificate Verification System 
