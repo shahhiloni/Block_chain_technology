@@ -1,4 +1,4 @@
-******************************** Internship Structure (3 Months) *************************************
+******************************** Internship Structure (3 Months) **********************************
 
 1. Month 1 (Weeks 1–4) → Fundamentals + Basics
 
@@ -42,3 +42,5 @@
 1. 1 Major Project (Capstone)
 2. Internship Report (including screenshots, code snippets, and learning outcomes)
 3. GitHub Repository (for code submission)
+
+
