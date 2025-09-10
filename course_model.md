@@ -1,6 +1,5 @@
 *********************************** course_model ************************************
 
-
 ************************** 1 Month *****************************
 Step: 1: Basic introduction of Block chain like (what is Block chain, advantages, disadvantages,etc...) - 3-4 lectures
 
@@ -41,7 +40,7 @@ Step: 8: Flask for UI + API
 
 Step: 1 : what is Smart Contract 
 
-Step: 2 : learn Remix for write Smart Contract and deployment
+Step: 2 : learn Remix or Hardhat for write Smart Contract and deployment
 
 Step: 3 :  
 1. In-depth Solidity programming
@@ -51,7 +50,8 @@ Step: 3 :
 
 Step: 4: learn about tokens, Alt coin, gas fees and wallets, types of Wallets
 
-************************** 3 month (Mini Projects) ******************************
+************************** 3 month (Projects) ******************************
+
 1. Voting Application 
 2. Hospital Management system 
 3. NFT Marketplace (Non-fungiable token - unique digital certificate which provide image, videos, games items, art ownership proof)

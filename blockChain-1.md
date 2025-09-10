@@ -4,6 +4,14 @@
 2. Blocks are connected (chained) together in order.
 3. Once written, data cannot be easily changed → this makes it trustworthy.
 
+******************** Structure of Block Chain *********************
+
+[ Block 1 ] ---> [ Block 2 ] ---> [ Block 3 ] ---> [ Block 4 ]
+     |               |                 |                |
+   Data           Data            Data             Data
+   Hash           Hash            Hash             Hash
+   PrevHash       PrevHash        PrevHash         PrevHash
+
 ## what is the main Advantages of BlockChain 
 1. Decentralization
   - No single authority controls the data.
@@ -103,6 +111,12 @@ Private blockchain = like company intranet (only employees can use).
 -- Example: Bitcoin, Ethereum.
 
 Public blockchain = like Wikipedia (anyone can edit).
+
+************************ public block and private block chain diagram **************************
+Private Key (Secret) ---> Generates ---> Public Key ---> Address
+         |                                       |
+     Used to sign                             Shared to receive
+     transactions                            transactions
 
 ## Smart Contracts
 -- A smart contract is a program stored on the blockchain.
