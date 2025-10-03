@@ -58,7 +58,37 @@
 - If a validator cheats, they lose their staked coins (called slashing).
 
 ## 3. Proof Of Elased Time: 
+- Proof of Elapsed Time is a consensus mechanism used in blockchain where the right to create the next block is given to the node that waits for the shortest randomly chosen time.
+- It’s like a lottery system:
+1. Each participant asks the system for a random waiting time.
+2. The one with the shortest waiting time gets to add the next block.
 
 
+**** How it Works:
+1. Each node (computer) gets a random wait time from a trusted system (usually Intel SGX – a secure hardware technology).
+2. Nodes go to “sleep” for that time.
+3. The first node whose timer finishes “wakes up” and creates the new block.
+4. Other nodes verify that the winner actually waited honestly.
+
+**** Advantages:
+1. Fair (like a lottery).
+2. Energy-efficient (not like Proof of Work which needs huge electricity).
 
 ## 4.Proof Of Burn: 
+- Proof of Burn is a blockchain consensus method where participants “burn” (destroy) coins to show commitment to the network.
+- It’s like proving loyalty:
+1. You send some coins to an address where they can never be spent (a burn address).
+2. In return, you get the right to mine or validate blocks.
+
+## How it Works:
+1. A miner sends coins to a burn address (an address with no private key).
+2. The more coins they burn, the higher their chances of being chosen to validate the next block.
+3. It’s like “investing” in the network for future rewards.
+
+## Advantages:
+1. Saves energy (compared to Proof of Work).
+2. Creates scarcity (burning reduces supply, increasing value).
+
+Examples:
+1. Used in Slimcoin (one of the first blockchains with PoB).
+2. Sometimes used by projects to reduce token supply (like Binance Coin (BNB) quarterly burns).
