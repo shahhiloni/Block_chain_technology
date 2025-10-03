@@ -172,3 +172,29 @@ Types:
 3. If the hash < target difficulty → block is accepted.
 4. If not → change nonce and try again.
     5. Hash: 
+
+
+------------------------------------------- Part - 4 -----------------------------------------
+
+1. what is Advantages of Block Chain
+- No Single point of Failure
+- No Middle server required
+- cost Reduction
+- Block Chain is immutable
+- Block Chain is open-source (everybody can use it)
+
+2. What is Disadvantages of Block Chain 
+- Verification is Requied in every Transcation
+- There is certain requirements for a full nodes. 
+- Too much Consumption of Power and Electricity.
+- Block Chain can be controled to an extent.
+- Strong Problem 
+
+3. Limitation of Block Chain?
+- No incentive for being a non mining full node.
+- Growth of ledgers makes it difficult and expensive non mining full node to maintain full node. 
+- Although becoming popular, investors find it difficult to grasp entire technology.
+- Educational institutes needs time to find proper curriculum.
+- lack of Block chain Developer
+
+
