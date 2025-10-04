@@ -25,3 +25,4 @@ Examples:
 1. Hardware Wallets → Ledger Nano S, Trezor
 2. Paper Wallets → Your private key printed on paper
 
+
