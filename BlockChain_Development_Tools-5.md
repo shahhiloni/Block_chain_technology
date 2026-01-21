@@ -1,4 +1,4 @@
-***************************** Learn Blockchain Development Tools *****************************
+************************ Learn Blockchain Development Tools ************************
 
 1. Remix IDE (for Solidity)
    - What it is:

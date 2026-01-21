@@ -3,10 +3,10 @@
 
 ** Think of it like a vending machine:
 - You insert money → the machine checks it → if the condition is met (correct amount), it automatically gives you a snack.
+
 - No shopkeeper or middleman is needed.
 
 ** Similarly, in blockchain:
-
 - A smart contract is a program stored on the blockchain.
 - When predefined conditions are met, it automatically executes actions (like transferring money, issuing tokens, recording data, etc.).
 - It cannot be changed once deployed, making it transparent and tamper-proof.
@@ -26,3 +26,4 @@
 2. Insurance: Auto payouts when conditions are met (e.g., flight delay).
 3. Supply Chain: Tracking goods, automatic payments on delivery.
 4. Real Estate: Automatic property transfers when payment is done.
+
